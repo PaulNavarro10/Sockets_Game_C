@@ -1,6 +1,6 @@
 /* 
 *@autor/es: Paul Danilo Navarro Estigarribia
-*/
+*/      
 #include "func_grupo_9.h"
 
 int inteligencia_artificial(int tablero[filas][columnas], int jugador, int contrario){ 
